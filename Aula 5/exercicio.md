@@ -10,16 +10,16 @@ Processo: Professor registra a frequencia dos alunos em cada aula.
 Tecnica: Observacao.
 Motivo: Em entrevista, o professor pode nao lembrar de um criterio automatico, como a forma que usa pra marcar falta parcial de quem chega atrasado.
 
-Minha resposta:
+ Minha resposta:
 
 Processo: A secretaria registra a matricula de aluno novo.
-Tecnica: 
-Motivo: 
+Tecnica: Análise documental
+Motivo: Os documentos de como deve ser feito contem toda a informação necessária e nesse caso é sempre atualizado, tirando a possibilidade de estar ultrapassado ou de ter enganos.
 
 Processo: O professor registra a frequencia dos alunos em cada aula.
-Tecnica: 
-Motivo: 
+Tecnica: Entrevista (semistruturada)
+Motivo: É a melhor escolha perguntar ao professor (stakeholder nível operacional) pois ele conhece o que pode dar certo e errado, as situações inesperadas dos alunos e do sistema legado.
 
 Processo: O aluno, quando falta, agenda uma reposicao em outro horario disponivel.
-Tecnica: 
-Motivo: 
+Tecnica: Questionário
+Motivo: Com muitos alunos seria possivel saber vários tipos de problemas possiveis e outras situações que o software precisara se adequar.
