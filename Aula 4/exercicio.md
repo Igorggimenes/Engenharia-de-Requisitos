@@ -16,19 +16,29 @@ Fonte 2: Politica comercial sobre formas de pagamento aceitas. Fonte nao humana,
 Minha resposta:
 
 --Vendedores
--Registrar pedidos
 O sistema deve ter um botão que permite criar um registro na tela de menu.
-Fonte sistema legado
+Fonte: sistema legado
+
 Na tela de registro deve ter metodo de pagamento, data, usuario e produto
+Fonte: 
 
 O sistema deve não aceitar se tiver informacoes erradas na publicação do registro.
+Fonte: 
 
 --Administrador
-Cadastrar produtos
-Editar produtos
-Remover produtos
+O sistema deve permitir somente à este tipo de usuário a cadastrar produtos.
+Fonte:
+
+Editar produtos deve ser uma das opções no menu deste usuario quando seleciona um produto.
+Fonte:
+
+O sistema deve permitir a este usuário remover produtos cadastrados.
+Fonte:
 
 --Estoquistas
 Registrar saida de estoque
+Fonte:
 Registrar entrada de estoque
+Fonte:
 Editar a quantidade de uma carga
+Fonte:
