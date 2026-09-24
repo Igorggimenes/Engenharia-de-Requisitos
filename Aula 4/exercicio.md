@@ -17,7 +17,11 @@ Minha resposta:
 
 --Vendedores
 -Registrar pedidos
-O sistema deve
+O sistema deve ter um botão que permite criar um registro na tela de menu.
+Fonte sistema legado
+Na tela de registro deve ter metodo de pagamento, data, usuario e produto
+
+O sistema deve não aceitar se tiver informacoes erradas na publicação do registro.
 
 --Administrador
 Cadastrar produtos
