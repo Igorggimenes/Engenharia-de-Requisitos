@@ -31,18 +31,19 @@ O sistema deve permitir somente à este tipo de usuário a cadastrar produtos.
 Fonte: Norma da empresa, não humana, categoria documentação.
 
 Editar produtos deve ser uma das opções no menu deste usuario quando seleciona o botão de tres pontinhos do produto.
-Fonte: Sistema legado, mão humana,  categoria documentação.
-Fonte Concorrência, não humana.
+Fonte: Sistema legado, mão humana,  categoria de registros.
+Fonte Concorrência, não humana, registro.
 
 O sistema deve permitir a este usuário remover produtos cadastrados.
-Fonte: Usuário final em entrevista, ele disse que as vezes coloca errado, ou o chefe muda de ideia.
+Fonte: Usuário final do tipo administrador em entrevista, ele disse que as vezes coloca errado, ou o chefe muda de ideia, operacional, pessoa.
 
 --Estoquistas
-Registrar saida de estoque
-Fonte: 
+Registrar saida/entrada/edição de estoque.
+Fonte: Entrevista estruturada com stakeholder de nível tático, fonte humana.
 
-Registrar entrada de estoque
-Fonte: 
+Metodo de login que ao colocar um login deste tipo de usuário mostrar apenas a seção dele e não outras funções de outros tipos de usuário.
+Fonte: Fonte não humana, concorrência, equisito não funcional de simplicidade.
+Fonte: Fonte não humana, norma da empresa, categoria de documentação.
 
-Editar a quantidade de uma carga
-Fonte: 
+O sistema deve responder 99,9% do tempo com 500 usuários ativos, caso problemas tecnicos deve se recuperar em até 5 minutos.
+Fonte: Entrevista estruturada com stakeholder de nível estratégico, fonte humana.
