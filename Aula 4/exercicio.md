@@ -16,29 +16,33 @@ Fonte 2: Politica comercial sobre formas de pagamento aceitas. Fonte nao humana,
 Minha resposta:
 
 --Vendedores
-O sistema deve ter um botão que permite criar um registro na tela de menu.
-Fonte: sistema legado
+O sistema deve registrar o usuário que fez cada alteração.
+Fonte: LGPD (lei de averiguação), não humana.
+Fonte: Sistema legado, não humana.
 
 Na tela de registro deve ter metodo de pagamento, data, usuario e produto
-Fonte: 
+Fonte: Norma escrita da empresa, não humana.
 
 O sistema deve não aceitar se tiver informacoes erradas na publicação do registro.
-Fonte: 
+Fonte: Concorrência e entrevista não estruturada, virou expectativa básica, humana e não humana.
 
 --Administrador
 O sistema deve permitir somente à este tipo de usuário a cadastrar produtos.
-Fonte:
+Fonte: Norma da empresa, não humana, categoria documentação.
 
-Editar produtos deve ser uma das opções no menu deste usuario quando seleciona um produto.
-Fonte:
+Editar produtos deve ser uma das opções no menu deste usuario quando seleciona o botão de tres pontinhos do produto.
+Fonte: Sistema legado, mão humana,  categoria documentação.
+Fonte Concorrência, não humana.
 
 O sistema deve permitir a este usuário remover produtos cadastrados.
-Fonte:
+Fonte: Usuário final em entrevista, ele disse que as vezes coloca errado, ou o chefe muda de ideia.
 
 --Estoquistas
 Registrar saida de estoque
-Fonte:
+Fonte: 
+
 Registrar entrada de estoque
-Fonte:
+Fonte: 
+
 Editar a quantidade de uma carga
-Fonte:
+Fonte: 
