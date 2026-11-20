@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0">
   <diagram name="Página-1" id="ViBfe_ngOeY_RS7_M1s9">
-    <mxGraphModel dx="2038" dy="1081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1161" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
             <mxPoint x="284" y="875" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sw8R7SAMIWXYSXl9TeYk-13" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Cadastrar transação&lt;/font&gt;" vertex="1">
+        <mxCell id="sw8R7SAMIWXYSXl9TeYk-13" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Folha de pagamento&lt;/span&gt;" vertex="1">
           <mxGeometry height="120" width="120" x="610" y="525" as="geometry" />
         </mxCell>
         <mxCell id="sw8R7SAMIWXYSXl9TeYk-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;governo&amp;gt;&amp;gt;" vertex="1">
